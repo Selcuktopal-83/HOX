@@ -49,7 +49,7 @@ contract HoxToken is ERC20,HOXStandard,Ownable {
 
     function HoxToken() {
         maxTotalSupply = 100*10**24; // 100 Mil.
-        totalInitialSupply = 333*10**23; // 33.3 Mil. (30%)
+        totalInitialSupply = 33*10**24; // 33 Mil.
 
         chainStartTime = now;
         chainStartBlockNumber = block.number;
