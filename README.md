@@ -1,2 +1,2 @@
 # HOX
-An Erc20 mintable token
+An Erc20 mintable token created for Hugo APP
