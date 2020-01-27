@@ -1,1 +1,1 @@
-https://vittominacori.github.io/erc20-generator string
+https://vittominacori.github.io/erc20-generator
